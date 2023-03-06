@@ -8,3 +8,11 @@ i {
   align-items: center;
   margin-right: 5px;
 }
+
+.offer-card {
+  max-width: 68%;
+  margin: auto;
+  @include mobile {
+    max-width: 90%;
+  }
+}
