@@ -1,0 +1,6 @@
+.card-services {
+  max-width: 50%;
+  @include mobile {
+    max-width: 90%;
+  }
+}

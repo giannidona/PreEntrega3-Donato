@@ -1,0 +1,15 @@
+.card__res {
+  @include mobile {
+    height: 550px !important;
+    margin-bottom: 10px !important;
+    img {
+      border-radius: 5px 5px 0px 0px !important;
+    }
+  }
+}
+
+.our__card {
+  @include mobile {
+    height: 350px !important;
+  }
+}
