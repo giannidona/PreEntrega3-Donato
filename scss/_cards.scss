@@ -8,3 +8,12 @@ i {
   align-items: center;
   margin-right: 5px;
 }
+
+/* CARD SERVICES */
+
+.card-services {
+  max-width: 50%;
+  @include mobile {
+    max-width: 90%;
+  }
+}
