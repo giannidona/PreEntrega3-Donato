@@ -14,5 +14,6 @@ i {
   margin: auto;
   @include mobile {
     max-width: 90%;
+    height: 570px;
   }
 }

@@ -84,6 +84,7 @@ i {
 @media screen and (max-width: 576px) {
   .offer-card {
     max-width: 90%;
+    height: 570px;
   }
 }
 
